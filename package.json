@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@slack/client": "^4.8.0",
+    "@slack/client": "^5.0.1",
     "node-fetch": "^2.6.0",
     "semver": "^6.1.0"
   },
