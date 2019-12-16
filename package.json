@@ -12,7 +12,7 @@
   "dependencies": {
     "@slack/client": "^4.8.0",
     "node-fetch": "^2.6.0",
-    "semver": "^6.1.0"
+    "semver": "^7.0.0"
   },
   "devDependencies": {
     "node-lambda": "^0.14.0"
